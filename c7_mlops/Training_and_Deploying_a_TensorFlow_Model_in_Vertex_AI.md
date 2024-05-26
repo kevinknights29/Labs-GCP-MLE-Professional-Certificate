@@ -93,4 +93,4 @@ pip3 install --user -r requirements.txt
 
 Check Jupyter Notebook:
 
-[![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)](./c7_mlops/notebooks/lab_exercise_long.ipynb)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)](./notebooks/lab_exercise_long.ipynb)
