@@ -91,4 +91,6 @@ pip3 install --user -r requirements.txt
 
 ## Task 6. Run Notebook
 
-Check [Lab Exercise Long](./c7_mlops/notebooks/lab_exercise_long.ipynb)
+Check Jupyter Notebook:
+
+[![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)](./c7_mlops/notebooks/lab_exercise_long.ipynb)
