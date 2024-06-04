@@ -67,3 +67,5 @@ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 ```
 
 ## Task 5. Introduction to Vertex pipelines
+
+> NOTE: You can preview the file  [here!](./notebooks/intro_to_vertex_pipelines.ipynb)
