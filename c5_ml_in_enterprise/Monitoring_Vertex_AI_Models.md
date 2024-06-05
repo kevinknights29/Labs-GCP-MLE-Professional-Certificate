@@ -14,6 +14,6 @@ git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 
 ## Task 4. Monitor your Vertex AI model
 
-> NOTE: You can preview the notebook  [here!](./notebooks/model_monitoring.ipynb)
+> :memo: **Note:** You can preview the notebook [here!](./notebooks/model_monitoring.ipynb)
 
 ## Task 5. Clean up

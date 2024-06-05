@@ -18,7 +18,7 @@ Download the AI Pipeline from the lab assets folder:
 wget https://storage.googleapis.com/cloud-training/dataengineering/lab_assets/ai_pipelines/basic_pipeline.json
 ```
 
-> NOTE: You can preview the file  [here!](./misc/basic_pipeline.json)
+> :memo: **Note:** You can preview the file [here!](./misc/basic_pipeline.json)
 
 ## Task 2. Configure and inspect the Pipeline code
 
